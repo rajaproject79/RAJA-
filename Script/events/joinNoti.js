@@ -35,6 +35,12 @@ module.exports.run = async function({ api, event }) {
 
 ________________________
 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐟𝐨𝐫 𝐚dd𝐢𝐧𝐠 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐢-𝐠𝐫𝐨𝐮𝐩-🖤🤗\n\n𝐈 𝐰𝐢𝐥𝐥 𝐚𝐥𝐰𝐚𝐲𝐬 𝐬𝐞𝐫𝐯𝐞 𝐲𝐨𝐮 𝐢𝐧𝐚𝐡𝐚𝐥𝐥𝐚𝐡 🌺❤️-!!
+NAME:RAJA ViP 5X 
+RELATIONSHIP:SINGEL
+FACEBOOK-ID:https://m.me/RAJA.ViP.5X.09638357510
+WHATAPP'S:+8801715559179
+IMO-ID:Rajamim79
+TELIGRAM-ID:@Rajavip5x
 ________________________\n\n𝐓𝐨 𝐯𝐢𝐞𝐰 𝐚𝐧𝐲 𝐜𝐨𝐦𝐦𝐚𝐧d
 
 ${global.config.PREFIX}Help\n${global.config.PREFIX} Manu
