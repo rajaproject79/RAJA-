@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "কুরআন",
+  name: "Quran",
   version: "0.0.1",
   hasPermssion: 1,
   credits: "Islmaick Chat",
