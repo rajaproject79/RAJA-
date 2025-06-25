@@ -76,7 +76,7 @@ ${global.config.PREFIX}Help\n${global.config.PREFIX} Manu
 
           if (existsSync(path)) mkdirSync(path, { recursive: true });
 
-          const randomPath = readdirSync(join(__dirname, "cache", "joinGif", "random.mp4"));
+          const randomPath = readdirSync(join(__dirname, "cache", "joinGif", "random1.mp4"));
 
           if (existsSync(pathGif)) formPush = { body: msg, attachment: createReadStream(pathvideo), mentions }
           else if (randomPath.length != 0) {
